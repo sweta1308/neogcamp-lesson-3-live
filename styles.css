@@ -7,7 +7,7 @@ body {
 
 :root {
     --primary-color: #ef4444;
-    --dark-gray: #e2e8f0;
+    --dark-yellow: #fde047;
     --off-white: #f1f5f9;
 
 }
@@ -102,7 +102,7 @@ hr {
 
 .hero .hero-heading {
     text-align: center;
-    color: var(--dark-gray);
+    color: var(--dark-yellow);
     padding-top: 1rem;
 }
 
@@ -116,8 +116,18 @@ hr {
     text-align: center;
 }
 
+.section p {
+    text-align: center;
+}
+
+
 .ow {
     background-color: var(--off-white);
+    padding: 1.5rem;
+}
+
+.section {
+    padding: 1rem;
 }
 
 /**footer**/
