@@ -62,6 +62,11 @@ hr {
     padding: 0rem 0.5rem;
 }
 
+.list-project {
+    display: contents;
+}
+
+
 /**navigation**/
 
 .navigation {
@@ -124,10 +129,11 @@ hr {
 .ow {
     background-color: var(--off-white);
     padding: 2rem;
+    padding-bottom: 5rem;
 }
 
 .section {
-    padding: 1rem;
+    padding: 3rem;
 }
 
 /**footer**/
@@ -153,3 +159,8 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.section-project {
+    padding-inline-end: 3rem 0rem;
+}
+
