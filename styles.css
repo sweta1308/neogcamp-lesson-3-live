@@ -9,6 +9,7 @@ body {
     --primary-color: #ef4444;
     --dark-yellow: #fde047;
     --off-white: #f1f5f9;
+    --light-green: #bef264;
 
 }
 
@@ -120,6 +121,12 @@ hr {
 
 .hero .hero-heading .heading-inverted {
     color: var(--primary-color);
+}
+
+.hero-heading-project {
+    text-align: center;
+    color: var(--light-green);
+    padding-top: 1rem;
 }
 
 /**section**/
