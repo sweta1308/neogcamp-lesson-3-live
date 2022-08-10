@@ -9,7 +9,7 @@ body {
     --primary-color: #ef4444;
     --dark-yellow: #fde047;
     --off-white: #f1f5f9;
-    --light-green: #bef264;
+    --dark-purple: #86198f;
 
 }
 
@@ -125,7 +125,7 @@ hr {
 
 .hero-heading-project {
     text-align: center;
-    color: var(--light-green);
+    color: var(--dark-purple);
     padding-top: 1rem;
 }
 
