@@ -10,7 +10,7 @@ body {
     --dark-yellow: #fde047;
     --off-white: #f1f5f9;
     --dark-purple: #86198f;
-
+    --light-pink: #ec4899;
 }
 
 hr {
@@ -115,12 +115,12 @@ hr {
 
 .hero .hero-heading {
     text-align: center;
-    color: var(--dark-yellow);
+    color: var(--primary-color);
     padding-top: 1rem;
 }
 
 .hero .hero-heading .heading-inverted {
-    color: var(--primary-color);
+    color: var(--light-pink);
 }
 
 .hero-heading-project {
