@@ -115,12 +115,12 @@ hr {
 
 .hero .hero-heading {
     text-align: center;
-    color: var(--primary-color);
+    color: var(--light-pink);
     padding-top: 1rem;
 }
 
 .hero .hero-heading .heading-inverted {
-    color: var(--light-pink);
+    color: var(--primary-color);
 }
 
 .hero-heading-project {
@@ -184,4 +184,10 @@ li {
 
 .section-project{
     padding: 1rem 0rem;
+}
+
+.list-ow {
+    background-color: var(--off-white);
+    padding: 2rem;
+    border-radius: 1rem;
 }
