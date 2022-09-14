@@ -220,4 +220,5 @@ li {
 
 .blog-section {
     margin: 5rem auto;
+    max-width: 35%;
 }
