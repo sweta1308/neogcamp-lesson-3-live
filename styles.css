@@ -197,4 +197,27 @@ li {
     padding: 0rem 0.2rem;
 }
 
+/* blog */
 
+.blog-container {
+    max-width: 40%;
+    margin: 8rem auto;
+
+}
+
+.blog-list {
+    text-align: left;
+}
+
+.blog-heading {
+    font-weight: bold;
+}
+
+.css-img {
+    max-width: 500px;
+    display: block;
+}
+
+.blog-section {
+    margin: 5rem auto;
+}
