@@ -130,6 +130,8 @@ hr {
     padding-top: 1rem;
 }
 
+
+
 /**section**/
 
 .section {
@@ -221,4 +223,58 @@ li {
 .blog-section {
     margin: 5rem auto;
     max-width: 35%;
+}
+
+@media (max-width: 700px) {
+    .blog-container {
+        max-width: 70%;
+    }
+    .blog-section {
+        max-width: 70%;
+    }
+    .css-img {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 400px) {
+    .navigation {
+        padding: 1rem;
+    }
+
+    .hero {
+        padding: 1rem;
+    }
+
+    .hero .hero-img {
+        max-width: 300px;
+    }
+
+    .list-item-inline {
+        padding: 0 0.2rem;
+    }
+
+    .list-ow {
+        padding: 1rem 0;
+    }
+
+    .ow {
+        padding: 1rem 0;
+    }
+
+    .section {
+        padding: 0;
+    }
+
+    .blog-section {
+        max-width: 80%;
+    }
+
+    .blog-container {
+        max-width: 80%;
+    }
+
+    .css-img {
+        max-width: 300px;
+    }
 }
